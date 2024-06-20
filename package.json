@@ -1,0 +1,22 @@
+{
+  "name": "24-express-bola-magica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muscardina/24-express-bola-magica.git"
+  },
+  "author": "Muscardina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Muscardina/24-express-bola-magica/issues"
+  },
+  "homepage": "https://github.com/Muscardina/24-express-bola-magica#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
